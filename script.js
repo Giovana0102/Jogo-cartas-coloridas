@@ -8,7 +8,7 @@ const finalPlayerSpan = document.getElementById("finalPlayer");
 const rankingList = document.getElementById("ranking");
 const startBtn = document.getElementById("startBtn");
 
-let colors = ["red", "blue", "green", "yellow", "purple", "orange"];
+let colors = ["vermelho", "azul", "verde", "amarelo", "roxo", "laranja"];
 let targetColor = "";
 let score = 0;
 let time = 60;
